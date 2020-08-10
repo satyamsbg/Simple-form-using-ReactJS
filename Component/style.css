@@ -1,0 +1,10 @@
+.loginpage{
+    text-align: center;
+}
+
+.loginpage a{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
